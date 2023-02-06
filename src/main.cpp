@@ -81,6 +81,8 @@ void loop()
       count=1;
     }
   }
+  //GET_traffic();
+  //delay(2000)
 }
 
 void Connect_Wifi()
